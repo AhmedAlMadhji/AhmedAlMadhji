@@ -1,3 +1,8 @@
+## ☕ Support My Work
+
+If you find my projects useful and want to support me:
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ahmdalqhla9&button_colour=FFDD00&font_colour=000000)](https://buymeacoffee.com/ahmdalqhla9)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AboNight#0840) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abo.night.02) 
