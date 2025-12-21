@@ -1,3 +1,9 @@
+## 👋 About Me
+
+I'm Ahmed Raed, a front-end developer focused on building clean, reliable, and user-centered web applications using Blazor, MudBlazor, React, and Tailwind CSS.
+
+---
+
 ## ☕ Support My Work
 
 If you find my projects useful and want to support me:
