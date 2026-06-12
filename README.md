@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmed Raed
+# Ahmed Al-Madhaji
 
 ### Software Developer • Product Builder • AI-Driven Developer
 
@@ -158,10 +158,10 @@ A platform designed to simplify everyday interactions and services through techn
 
 ---
 
-# ☕ Support My Work
+## ☕ Support My Work
 
-<a href="https://buymeacoffee.com/ahmdalqhla9">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ahmdalqhla9&button_colour=FFDD00&font_colour=000000" />
+<a href="https://buymeacoffee.com/ahmdalqhla9" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee">
 </a>
 
 ---
@@ -169,7 +169,7 @@ A platform designed to simplify everyday interactions and services through techn
 # 🌍 Connect
 
 - GitHub: https://github.com/AhmedAlMadhji
-- Instagram: https://instagram.com/abo.night.02
+- Instagram: [https://instagram.com/abo.night.02](https://www.instagram.com/ahmed.almadhaji.02/)
 
 ---
 
